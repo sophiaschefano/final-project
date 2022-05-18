@@ -1,0 +1,79 @@
+
+
+/* Top Heading (h1)  */
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Raleway:wght@200&family=STIX+Two+Text&family=Sumana&display=swap');
+h1 {
+text-align: center;
+ font-family: 'DM Serif Display', serif;
+ font-size: 64px
+}
+
+/* Line at header */
+.black-line {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  margin-top: 5vh;
+  min-height: 40px;
+  align-items: center;
+  background: black;
+}
+
+
+/* Heading 'Posts' */
+
+.heading {
+font-family: 'Raleway', sans-serif;
+font-size: 42px;
+margin-top: 50px;
+  margin-bottom: 50px;
+  text-align: center;
+
+}
+.heading img {
+
+
+}
+
+
+
+/* Article Titles*/
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-size: 25px;
+  margin-left: 10%;
+}
+
+/* Dates*/
+.date {
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
+  margin-left: 10%;
+  color: rgba(173, 162, 162, 100%);
+}
+
+.p {
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
+  margin-left: 10%;
+  color: black;
+}
+
+
+.a {
+  font-family: 'Raleway', sans-serif;
+  font-size: 21px;
+  margin-left: 10%;
+  color: black;
+}
+
+
+
+/* Body Stylings */
+
+body {
+  width: 100%;
+
+
+}
